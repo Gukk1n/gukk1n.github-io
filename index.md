@@ -20,6 +20,7 @@
 - МИНУС
 
 [моя почта](d.gukkin@gmail.com)
+
 [ссылка на repo](https://github.com/Gukk1n/gukk1n.github.io.git "поставьте 5")
 
 ![](https://i.pinimg.com/originals/d0/fa/86/d0fa86e43925e56315c5d54fb816cd63.jpg)
